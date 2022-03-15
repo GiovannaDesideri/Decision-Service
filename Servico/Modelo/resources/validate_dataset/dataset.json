@@ -1,0 +1,8 @@
+{
+  "name": "Gio",
+  "weather": {
+    "rainForecast": 90,
+    "temperature": "cold",
+    "stormAlert": false
+  }
+}
